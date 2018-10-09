@@ -1,8 +1,8 @@
 # sass
 
-#Starting with sass and learning about it.
+##Starting with sass and learning about it.
 
-#Steps
+##Steps
 
 -Download ruby if you dont have it.(https://rubyi8nstaller.org)
 
