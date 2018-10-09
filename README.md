@@ -1,19 +1,19 @@
 # sass
 
-##Starting with sass and learning about it.
+Starting with sass and learning about it.
 
-##Steps
+Steps
+```
+- Download ruby if you dont have it.(https://rubyi8nstaller.org)
 
--Download ruby if you dont have it.(https://rubyi8nstaller.org)
+- Create a Repo and make it LIVE.
 
--Create a Repo and make it LIVE.
+- install sass from bash or from the terminal. (gem installed sass)
 
--install sass from bash or from the terminal. (gem installed sass)
+- create a project folder and create the necessary sub folders you need in it.
 
--create a project folder and create the necessary sub folders you need in it.
-
--start making the touch folders like index.html which is the main entry point.
-
+- start making the touch folders like index.html which is the main entry point.
+```
 
 
 ##Live link  
